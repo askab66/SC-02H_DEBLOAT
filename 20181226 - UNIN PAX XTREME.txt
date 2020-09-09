@@ -45,7 +45,6 @@ pm uninstall -k --user 0 com.sec.android.daemonapp
 pm uninstall -k --user 0 com.samsung.android.weather
 pm uninstall -k --user 0 com.samsung.faceservice
 pm uninstall -k --user 0 com.sec.android.app.shealth
-pm uninstall -k --user 0 com.sec.android.service.health
 pm uninstall -k --user 0 com.samsung.android.email.provider
 pm uninstall -k --user 0 com.samsung.knox.securefolder.setuppage
 pm uninstall -k --user 0 com.samsung.knox.securefolder
